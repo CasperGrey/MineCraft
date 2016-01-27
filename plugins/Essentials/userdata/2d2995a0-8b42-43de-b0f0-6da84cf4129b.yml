@@ -1,0 +1,22 @@
+lastAccountName: canitbeanything
+timestamps:
+  login: 1453727558667
+  logout: 1453727599056
+  lastteleport: 1453724113825
+ipAddress: 147.69.142.24
+godmode: true
+logoutlocation:
+  world: world
+  x: 194.05594515318523
+  y: 103.36933700368043
+  z: 1071.129757621358
+  yaw: -148.94762
+  pitch: 40.34998
+lastlocation:
+  world: world
+  x: -63.38584008144309
+  y: 84.98959142386595
+  z: 241.50900410705236
+  yaw: 183.00342
+  pitch: 25.950035
+afk: false
